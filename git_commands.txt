@@ -11,3 +11,6 @@ git add. - To add all the files from untracked to staged
 git remote set-url origin ''
 git status
 git push origin main
+
+
+New changes
