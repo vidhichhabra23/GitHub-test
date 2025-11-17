@@ -1,0 +1,13 @@
+git add testing.py
+git status
+git commit -m "Files added"
+git status
+rm testing.py
+git status
+git restore testing.py
+ls
+git add. - To add all the files from untracked to staged
+# To Push to Github
+git remote set-url origin ''
+git status
+git push origin main
